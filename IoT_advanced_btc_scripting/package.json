@@ -1,0 +1,14 @@
+{
+  "name": "iot_advanced_btc_scripting",
+  "version": "1.0.0",
+  "description": "Creating a multisig tx with Filip",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "btc"
+  ],
+  "author": "lxndr",
+  "license": "ISC"
+}
